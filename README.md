@@ -1,4 +1,4 @@
-# 🚀 Linux System Admin / Bash Notes 🚀
+# 🚀 Linux Crash Course 🚀
 
 # <a href="01_intro_to_linux.md">Chapter 1: Introduction to Linux</a>
 

@@ -115,19 +115,7 @@
   - `df`: Displays available disk space on mounted file systems.
   - Example: `df -h` shows free and used disk space in human-readable format.
 
-## 3.9 Mounting and Unmounting Drives
-- **Mount Points**:
-  - In Linux, drives and partitions must be mounted to access their files.
-  - Mount points are directories where file systems are attached.
-  - Example: `/mnt/usb` can be used to mount a USB drive.
-- **Mounting Drives**:
-  - `mount <device> <mount_point>`: Mounts a device to a specified directory.
-  - Example: `mount /dev/sdb1 /mnt/usb` mounts the device `/dev/sdb1` to `/mnt/usb`.
-- **Unmounting Drives**:
-  - `umount <mount_point>`: Unmounts a device or partition.
-  - Example: `umount /mnt/usb` unmounts the USB drive from `/mnt/usb`.
-
-## 3.10 Finding Files and Directories
+## 3.9 Finding Files and Directories
 - **`find`**:
   - Search for files and directories based on various criteria such as name, type, or permissions.
   - Syntax: `find <path> -name <filename>`.
@@ -139,7 +127,7 @@
   - Finds the location of executable programs.
   - Example: `which python` shows the path to the Python executable.
 
-## 3.11 Best Practices for File System Navigation
+## 3.10 Best Practices for File System Navigation
 - **Organize Your Files**:
   - Keep your home directory clean and structured (e.g., using `Documents`, `Downloads`, `Projects`).
 - **Use Autocompletion**:
