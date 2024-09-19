@@ -1,5 +1,7 @@
 # Chapter 6: Process and Job Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 6.1 Introduction to Processes in Linux
 - **What is a Process?**:
   - A process is an instance of a running program. Every process in Linux is assigned a unique **Process ID (PID)**.
@@ -131,3 +133,5 @@
   - Automate routine maintenance, backups, and other administrative tasks using `cron` for efficiency.
 - **Avoid Overusing `sudo` for Process Management**:
   - Run processes as a regular user whenever possible, reserving root privileges for tasks that truly require them.
+
+<a href="README.md">&laquo; main menu</a>

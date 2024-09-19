@@ -1,5 +1,7 @@
 # Chapter 19: Redirecting Input/Output and Pipes
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 19.1 Introduction to Redirection and Pipes
 - **Purpose**
   - Redirection and pipes are fundamental concepts in Unix-like operating systems that allow you to control the flow of data between commands and files.
@@ -119,3 +121,5 @@ Understanding and effectively using redirection and pipes allows you to manage a
   - **Combination**: Use redirection and pipes together to handle various data processing tasks.
 
 Mastering these concepts will enhance your command-line skills and improve your productivity in managing and automating tasks on Linux systems.
+
+<a href="README.md">&laquo; main menu</a>

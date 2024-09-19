@@ -1,5 +1,7 @@
 # Chapter 4: Understanding and Using Text Editors
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 4.1 Overview of Text Editors in Linux
 - **Graphical vs Terminal-Based Editors**:
   - **Graphical Editors**: Editors that operate within a graphical user interface (GUI), such as Gedit or Sublime Text.
@@ -123,3 +125,5 @@
 - **Avoid Over-reliance on GUIs**:
   - While GUI editors are convenient, terminal-based editors are more versatile for remote and system-level tasks.
 
+
+<a href="README.md">&laquo; main menu</a>

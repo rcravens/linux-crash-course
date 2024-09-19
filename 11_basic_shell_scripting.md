@@ -1,5 +1,7 @@
 # Chapter 11: Basic Shell Scripting
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 11.1 Introduction to Shell Scripting
 - **What is Shell Scripting?**
   - Shell scripting is the process of writing scripts to automate tasks and manage system operations using a command-line interpreter, or shell.
@@ -198,3 +200,5 @@ Basic shell scripting provides a foundation for automating tasks and managing sy
 
 Practice these basics to build a strong foundation and prepare for more advanced scripting techniques in the next chapter.
 
+
+<a href="README.md">&laquo; main menu</a>

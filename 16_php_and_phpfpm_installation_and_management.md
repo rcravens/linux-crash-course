@@ -1,5 +1,7 @@
 # Chapter 16: PHP and PHP-FPM Installation and Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 16.1 Introduction to PHP and PHP-FPM
 - **Purpose**
   - PHP (Hypertext Preprocessor) is a popular server-side scripting language used for web development.
@@ -176,3 +178,5 @@ Proper installation and configuration of PHP and PHP-FPM are crucial for running
   - **Security**: Implement security settings to protect your PHP environment.
 
 Regularly review and update your PHP configuration to adapt to new features, performance improvements, and security enhancements.
+
+<a href="README.md">&laquo; main menu</a>

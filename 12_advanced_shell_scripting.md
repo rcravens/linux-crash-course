@@ -1,5 +1,7 @@
 # Chapter 12: Advanced Shell Scripting
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 12.1 Introduction to Advanced Shell Scripting
 - **Purpose**
   - Advanced shell scripting techniques help manage complex tasks and enhance script functionality beyond basic scripting.
@@ -158,3 +160,5 @@ Advanced shell scripting techniques allow for greater control and efficiency in 
   - **Text Processing**: Manipulate and analyze text data.
 
 Continue practicing and exploring advanced features to further enhance your shell scripting skills.
+
+<a href="README.md">&laquo; main menu</a>

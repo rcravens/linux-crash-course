@@ -1,5 +1,7 @@
 # Chapter 14: Backup and Recovery
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 14.1 Introduction to Backup and Recovery
 - **Purpose**
   - Ensure data integrity and availability by implementing effective backup and recovery strategies.
@@ -113,3 +115,5 @@ Effective backup and recovery strategies are critical for protecting data and en
   - **Best Practices**: Regularly backup, use offsite storage, and secure backups with encryption.
 
 Regularly review and update your backup and recovery procedures to keep up with changing data needs and technological advancements.
+
+<a href="README.md">&laquo; main menu</a>

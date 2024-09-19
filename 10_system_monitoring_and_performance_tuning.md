@@ -1,5 +1,7 @@
 # Chapter 10: System Monitoring and Performance Tuning
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 10.1 Introduction to System Monitoring and Performance Tuning
 - **What is System Monitoring?**
   - System monitoring involves observing and analyzing system performance and resource usage to ensure that the system operates efficiently and effectively.
@@ -103,3 +105,5 @@
 ## 10.10 Conclusion
 System monitoring and performance tuning are essential for maintaining a healthy and efficient Linux system. By understanding how to monitor resource usage, analyze performance, and make targeted adjustments, you can ensure that your system runs smoothly and meets performance expectations. Regular monitoring, combined with effective tuning practices, helps prevent issues and enhances overall system reliability and efficiency.
 
+
+<a href="README.md">&laquo; main menu</a>

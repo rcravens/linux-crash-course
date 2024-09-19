@@ -1,5 +1,7 @@
 # Chapter 9: Networking Essentials
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 9.1 Introduction to Networking
 - **What is Networking?**
   - Networking involves connecting computers and other devices to share resources and communicate over a network.
@@ -108,3 +110,5 @@
 ## 9.9 Conclusion
 Understanding networking essentials is crucial for effective system administration and troubleshooting. By learning how to manage IP addresses, configure network interfaces, and utilize network services, you ensure that your Linux system is properly connected and functional. Employing network utilities, troubleshooting methods, and security measures like firewalls and SSH configurations enhances both performance and security, making you a more adept network administrator.
 
+
+<a href="README.md">&laquo; main menu</a>

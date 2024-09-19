@@ -1,5 +1,7 @@
 # Chapter 18: Node.js Installation and Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 18.1 Introduction to Node.js
 - **Purpose**
   - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to build scalable network applications using JavaScript on the server side.
@@ -192,3 +194,5 @@ Node.js is a powerful runtime for building scalable and high-performance applica
   - **Updating and Securing**: Keep Node.js up-to-date and follow best security practices.
 
 Regularly review and update your Node.js environment to ensure optimal performance and security.
+
+<a href="README.md">&laquo; main menu</a>

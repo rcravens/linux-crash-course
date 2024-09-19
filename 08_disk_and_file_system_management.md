@@ -1,5 +1,7 @@
 # Chapter 8: Disk and File System Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 8.1 Introduction to Disk and File System Management
 - **What is Disk and File System Management?**
   - Disk and file system management involves handling the storage devices connected to a system and the file systems used to organize data on these devices.
@@ -129,3 +131,5 @@
 
 ## 8.10 Conclusion
 Effective disk and file system management is crucial for maintaining the health and efficiency of your Linux system. By understanding how to view disk usage, manage partitions, format file systems, and use advanced features like quotas and encryption, you ensure that your system remains organized, secure, and performant. Regularly monitoring disk health and performance helps prevent issues before they impact your system, while proper configuration of `fstab` and swap space keeps your system running smoothly and efficiently.
+
+<a href="README.md">&laquo; main menu</a>

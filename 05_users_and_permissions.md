@@ -1,5 +1,7 @@
 # Chapter 5: Users and Permissions
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 5.1 Introduction to Users in Linux
 - **User Accounts**:
   - Linux is a multi-user system, meaning multiple users can operate independently on the same machine.
@@ -131,3 +133,5 @@
   - **Unlock**: Use `passwd -u <username>` to unlock an account.
 - **Temporary Users**:
   - Use tools like `adduser --expiredate` to set expiration dates for temporary accounts, ensuring they are automatically disabled after a specific time.
+
+<a href="README.md">&laquo; main menu</a>

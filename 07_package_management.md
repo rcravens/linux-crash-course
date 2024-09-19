@@ -1,5 +1,7 @@
 # Chapter 7: Package Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 7.1 Introduction to Package Management
 - **What is a Package?**:
   - A package is a compressed file that contains software, along with metadata such as its name, version, and dependencies.
@@ -141,3 +143,5 @@
   
 ## 7.10 Conclusion
 Understanding how to efficiently manage packages is essential for keeping your Linux system secure, stable, and efficient. By using the correct package manager for your distribution, you can install, upgrade, and remove software in a streamlined and controlled way. Additionally, by following best practices, such as regularly updating your system and cleaning up unused packages, you ensure that your system remains clutter-free and performant.
+
+<a href="README.md">&laquo; main menu</a>

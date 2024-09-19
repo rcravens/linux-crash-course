@@ -1,5 +1,7 @@
 # Chapter 3: File System Navigation
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 3.1 The Linux File System Hierarchy
 - **Root Directory `/`**:
   - The top-most directory in the Linux file system.
@@ -137,3 +139,5 @@
 - **Be Careful with `rm`**:
   - Use `rm` cautiously, especially with `-r` (recursive) or `-f` (force) flags.
   - Always double-check the file path before deleting anything.
+
+<a href="README.md">&laquo; main menu</a>

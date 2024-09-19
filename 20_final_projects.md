@@ -1,5 +1,7 @@
 # Chapter 20: Final Projects
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 20.1 Introduction to Final Projects
 - **Purpose**
   - The final projects are designed to consolidate your knowledge and skills acquired throughout the course.
@@ -177,3 +179,6 @@ Final projects are designed to provide hands-on experience with the skills and k
   - **Security Hardening**: Implement and audit security measures on a Linux server.
 
 These projects will help solidify your understanding and prepare you for real-world scenarios in system administration and application management.
+
+
+<a href="README.md">&laquo; main menu</a>

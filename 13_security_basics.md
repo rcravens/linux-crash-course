@@ -1,5 +1,7 @@
 # Chapter 13: Security Basics
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 13.1 Introduction to Security in Linux
 - **Purpose**
   - Ensure the security and integrity of the Linux system by implementing best practices and understanding potential threats.
@@ -171,3 +173,5 @@ Understanding and implementing basic security practices is crucial for maintaini
   - **Monitoring**: Regularly audit and monitor system logs.
 
 Continue applying these security practices and stay informed about new threats and best practices to maintain a secure Linux system.
+
+<a href="README.md">&laquo; main menu</a>

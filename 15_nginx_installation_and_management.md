@@ -1,5 +1,7 @@
 # Chapter 15: Nginx Installation and Management
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 15.1 Introduction to Nginx
 - **Purpose**
   - Nginx is a high-performance web server and reverse proxy server known for its scalability and efficiency.
@@ -190,3 +192,5 @@ Nginx is a versatile web server and reverse proxy with numerous features for opt
   - **Security**: Implement SSL/TLS and security headers.
 
 Regularly update your Nginx configuration and practices to keep up with evolving security standards and performance optimizations.
+
+<a href="README.md">&laquo; main menu</a>

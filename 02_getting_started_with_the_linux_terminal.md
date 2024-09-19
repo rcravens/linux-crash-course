@@ -1,5 +1,7 @@
 # Chapter 2: Getting Started with the Linux Terminal
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 2.1 Basic Terminal Concepts
 - **What is the Terminal?**
   - A terminal (also known as a command-line interface or shell) allows users to interact with the system via text-based commands.
@@ -54,3 +56,5 @@
 - **Practice Regularly**: The more you use the terminal, the more comfortable and efficient you'll become.
 - **Use Autocompletion**: Take advantage of the Tab key to reduce typos and speed up file navigation.
 - **Learn from Mistakes**: Errors are part of the learning process. Carefully read error messages and learn from them.
+
+<a href="README.md">&laquo; main menu</a>

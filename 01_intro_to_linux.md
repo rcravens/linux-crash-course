@@ -1,5 +1,7 @@
 # Chapter 1: Introduction to Linux
 
+<a href="README.md">&laquo; main menu</a>
+
 ## 1.1 What is Linux?
 - **Linux Kernel**: Discuss the Linux kernel as the core of the operating system, managing hardware and system processes.
 - **Unix-like Operating System**: Explain how Linux is based on Unix principles, emphasizing multitasking, multiuser functionality, and the open-source model.
@@ -37,3 +39,5 @@
 - **Kernel Development**: Brief history of Linus Torvalds creating the Linux kernel in 1991, and how development has continued through community collaboration.
 - **GNU Project**: Describe how the GNU Project provides essential tools (compilers, shells, editors) that complement the Linux kernel to form a complete OS.
 - **Linux Foundation**: Role of the Linux Foundation in promoting, protecting, and standardizing Linux globally.
+
+<a href="README.md">&laquo; main menu</a>
