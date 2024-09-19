@@ -2,6 +2,8 @@
 
 > [!NOTE]
 > This is a repository of common topics related to managing a Linux server. Many of these I've had in notes on my local system, but it makes more sense to publish these here and share with others.
+> 
+> Most chapters stand on their own...so feel free to jump directly to the topic you are interested in.
 
 ## <a href="01_intro_to_linux.md">Chapter 1: Introduction to Linux</a>
 
